@@ -1,0 +1,1232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Va",
+				"VALID_EMAIL_REGEX"
+			],
+			[
+				"asser",
+				"assert_not"
+			],
+			[
+				"ass",
+				"assert_select"
+			],
+			[
+				"lo",
+				"log_in_as"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"for",
+				"forwarding_url"
+			],
+			[
+				"edi",
+				"edit_user_path"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"o",
+				"other_user"
+			],
+			[
+				"assert_re",
+				"assert_redirected_to"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"asserr",
+				"assert_redirected_to"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"rem",
+				"remember_token"
+			],
+			[
+				"remember",
+				"remember_token"
+			],
+			[
+				"reme",
+				"remember_me"
+			],
+			[
+				"log",
+				"log_in_as"
+			],
+			[
+				"inte",
+				"integration_test"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"remem",
+				"remember_token"
+			],
+			[
+				"up",
+				"update_attribute"
+			],
+			[
+				"login",
+				"login_path"
+			],
+			[
+				"as",
+				"assert_select"
+			],
+			[
+				"fol",
+				"follow_redirect"
+			],
+			[
+				"logout",
+				"logout_path"
+			],
+			[
+				"cur",
+				"current_user"
+			],
+			[
+				"se",
+				"sessions"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"messa",
+				"message_type"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"user",
+				"users_path"
+			],
+			[
+				"in",
+				"information"
+			],
+			[
+				"box",
+				"box_sizing"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"grava",
+				"gravatar_url"
+			],
+			[
+				"gra",
+				"gravatar_id"
+			],
+			[
+				"moz-box",
+				"moz-box-sizing"
+			],
+			[
+				"labe",
+				"label_tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"acce",
+				"accept-charset	Attr"
+			],
+			[
+				"assert",
+				"assert_not"
+			],
+			[
+				"dup",
+				"duplicate_user"
+			],
+			[
+				"invalid",
+				"invalid_addresses"
+			],
+			[
+				"inva",
+				"invalid_addresses"
+			],
+			[
+				"vali",
+				"valid_address"
+			],
+			[
+				"val",
+				"valid_address"
+			],
+			[
+				"va",
+				"valid_addresses"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"la",
+				"layouts"
+			],
+			[
+				"textra",
+				"text-transform"
+			],
+			[
+				"teal",
+				"text-align"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"ba",
+				"base_title"
+			],
+			[
+				"pass",
+				"password_field"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"tag",
+				"tag_path"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"tags",
+				"tags_string"
+			],
+			[
+				"text",
+				"text_field"
+			],
+			[
+				"article",
+				"article_params"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/helpers/sessions_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 1338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/sessions_controller.rb",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 1039,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zed/Odin/Rails/sample_app"
+	],
+	"file_history":
+	[
+		"/home/zed/Odin/Rails/sample_app/app/views/layouts/application.html.erb",
+		"/home/zed/Odin/Rails/sample_app/app/controllers/users_controller.rb",
+		"/home/zed/Odin/Rails/members-only/app/controllers/application_controller.rb",
+		"/home/zed/Odin/Rails/members-only/app/views/users/show.html.erb",
+		"/home/zed/Odin/Rails/members-only/app/controllers/users_controller.rb",
+		"/home/zed/Odin/Rails/members-only/app/models/user.rb",
+		"/home/zed/Odin/Rails/members-only/db/migrate/20151004120206_create_users.rb",
+		"/home/zed/Odin/Rails/members-only/config/routes.rb",
+		"/home/zed/Odin/Rails/members-only/Gemfile",
+		"/home/zed/Odin/Rails/members-only/README.rdoc",
+		"/home/zed/Odin/Rails/sample_app/app/views/users/edit.html.erb",
+		"/home/zed/Odin/Rails/sample_app/app/views/users/new.html.erb",
+		"/home/zed/Odin/Rails/sample_app/app/views/users/_form.html.erb",
+		"/home/zed/Odin/Rails/sample_app/tmp/cache/assets/development/sprockets/v3.0/eD9OYd2x4MCyaIbdKROJMFYd2HWQdWGF79KLHDg-J_M.cache",
+		"/home/zed/Odin/Rails/sample_app/test/controllers/users_controller_test.rb",
+		"/home/zed/Odin/Rails/sample_app/test/fixtures/users.yml",
+		"/home/zed/Odin/Rails/sample_app/test/integration/site_layout_test.rb",
+		"/home/zed/Odin/Rails/sample_app/app/views/layouts/_header.html.erb",
+		"/home/zed/Odin/Rails/sample_app/app/helpers/sessions_helper.rb",
+		"/home/zed/Odin/Rails/sample_app/test/models/user_test.rb",
+		"/home/zed/Odin/Rails/sample_app/config/routes.rb",
+		"/home/zed/Odin/Rails/sample_app/app/views/layouts/_footer.html.erb",
+		"/home/zed/Odin/Rails/sample_app/app/views/static_pages/home.html.erb",
+		"/home/zed/Odin/Rails/sample_app/app/views/layouts/_shim.html.erb",
+		"/home/zed/Odin/Rails/sample_app/test/integration/users_edit_test.rb",
+		"/home/zed/Odin/Rails/sample_app/app/views/users/_user.html.erb",
+		"/home/zed/Odin/Rails/sample_app/test/integration/users_index_test.rb",
+		"/home/zed/Odin/Rails/sample_app/app/views/users/index.html.erb",
+		"/home/zed/Odin/Rails/sample_app/db/seeds.rb",
+		"/home/zed/Odin/Rails/sample_app/db/migrate/20151002125156_add_admin_to_users.rb",
+		"/home/zed/Odin/Rails/sample_app/app/controllers/sessions_controller.rb",
+		"/home/zed/Odin/Rails/sample_app/Gemfile",
+		"/home/zed/Odin/Rails/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/zed/Odin/Rails/sample_app/app/helpers/users_helper.rb",
+		"/home/zed/Odin/Rails/sample_app/app/helpers/application_helper.rb",
+		"/home/zed/Odin/Rails/sample_app/app/controllers/application_controller.rb",
+		"/home/zed/Odin/Rails/sample_app/test/test_helper.rb",
+		"/home/zed/Odin/Rails/sample_app/app/models/user.rb",
+		"/home/zed/Odin/Rails/sample_app/test/integration/users_login_test.rb",
+		"/home/zed/Odin/Rails/sample_app/test/helpers/sessions_helper_test.rb",
+		"/home/zed/Odin/Rails/sample_app/app/views/sessions/new.html.erb",
+		"/home/zed/Odin/Rails/sample_app/db/migrate/20150928162003_add_remember_digest_to_users.rb",
+		"/home/zed/Odin/Rails/sample_app/test/integration/users_signup_test.rb",
+		"/home/zed/Odin/Rails/sample_app/app/assets/javascripts/application.js",
+		"/home/zed/Odin/Rails/sample_app/app/views/shared/_error_messages.html.erb",
+		"/home/zed/Odin/Rails/sample_app/app/views/users/show.html.erb",
+		"/home/zed/Odin/Rails/sample_app/Procfile",
+		"/home/zed/Odin/Rails/sample_app/config/puma.rb",
+		"/home/zed/Odin/Rails/sample_app/config/environments/production.rb",
+		"/home/zed/Odin/Rails/sample_app/db/migrate/20150912143823_create_users.rb",
+		"/home/zed/Odin/Rails/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/zed/Odin/Rails/re-former/config/routes.rb",
+		"/home/zed/Odin/Rails/re-former/app/models/user.rb",
+		"/home/zed/Odin/Rails/re-former/README.rdoc",
+		"/home/zed/Odin/Rails/re-former/db/migrate/20150918144134_create_users.rb",
+		"/home/zed/Odin/Rails/micro-reddit/db/migrate/20150914164619_create_users.rb",
+		"/home/zed/Odin/Rails/sample_app/db/migrate/20150912182734_add_index_to_users_email.rb",
+		"/home/zed/Odin/Rails/sample_app/db/migrate/20150913165635_add_password_digest_to_users.rb",
+		"/home/zed/Odin/Rails/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/home/zed/Odin/Rails/sample_app/db/development.sqlite3",
+		"/home/zed/Odin/Rails/sample_app/test/helpers/application_helper_test.rb",
+		"/home/zed/Odin/Rails/sample_app/app/views/static_pages/contact.html.erb",
+		"/home/zed/Odin/Rails/rest-tester/app/views/layouts/application.html.erb",
+		"/home/zed/Odin/Rails/rest-tester/app/views/users/index.html.erb",
+		"/home/zed/Odin/Rails/rest-tester/app/views/users/new.html.erb",
+		"/home/zed/Odin/Rails/rest-tester/app/views/users/edit.html.erb",
+		"/home/zed/Odin/Rails/rest-tester/app/views/users/show.html.erb",
+		"/home/zed/Odin/Rails/rest-tester/config/routes.rb",
+		"/home/zed/Odin/Rails/toy_app/config/routes.rb",
+		"/home/zed/Odin/Rails/sample_app/app/views/static_pages/about.html.erb",
+		"/home/zed/Odin/Rails/sample_app/app/views/static_pages/help.html.erb",
+		"/home/zed/Odin/Rails/sample_app/README.md",
+		"/home/zed/Odin/Rails/toy_app/app/controllers/users_controller.rb",
+		"/home/zed/Odin/Rails/toy_app/app/views/users/index.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/views/articles/show.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/views/articles/index.html.erb",
+		"/home/zed/Odin/Rails/toy_app/app/controllers/application_controller.rb",
+		"/home/zed/Odin/Rails/toy_app/Gemfile",
+		"/home/zed/Odin/Rails/blogger/Gemfile",
+		"/home/zed/Odin/Rails/blogger/app/controllers/authors_controller.rb",
+		"/home/zed/Odin/Rails/blogger/app/views/layouts/application.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/controllers/author_sessions_controller.rb",
+		"/home/zed/Odin/Rails/blogger/app/views/author_sessions/new.html.erb",
+		"/home/zed/Odin/Rails/blogger/config/routes.rb",
+		"/home/zed/Odin/Rails/blogger/app/views/authors/index.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/views/authors/_form.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/views/authors/show.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/models/author.rb",
+		"/home/zed/Odin/Rails/blogger/app/models/article.rb",
+		"/home/zed/Odin/Rails/blogger/db/migrate/20150721115538_sorcery_core.rb",
+		"/home/zed/Odin/Rails/blogger/app/controllers/articles_controller.rb",
+		"/home/zed/Odin/Rails/blogger/app/assets/stylesheets/styles.css.scss",
+		"/home/zed/Odin/Rails/blogger/app/views/articles/_form.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/views/articles/edit.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/views/articles/new.html.erb",
+		"/home/zed/Odin/Rails/blogger/tmp/cache/assets/development/sprockets/v3.0/UHTuw3uW_XtPjntvkCNmTxuqp8AQeO0c8Y-UK6DtndM.cache",
+		"/home/zed/Odin/Rails/blogger/app/helpers/articles_helper.rb",
+		"/home/zed/Odin/Rails/blogger/test/models/article_test.rb",
+		"/home/zed/Odin/Rails/blogger/db/migrate/20150720143940_add_paperclip_fields_to_article.rb",
+		"/home/zed/Odin/Rails/blogger/app/views/tags/index.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/controllers/tags_controller.rb",
+		"/home/zed/Odin/Rails/blogger/app/views/tags/show.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/models/tag.rb",
+		"/home/zed/Odin/Rails/blogger/app/views/articles/_comment.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/controllers/comments_controller.rb",
+		"/home/zed/Odin/Rails/blogger/app/views/comments/_form.html.erb",
+		"/home/zed/Odin/Rails/blogger/app/helpers/comments_helper.rb",
+		"/home/zed/Odin/Rails/blogger/db/migrate/20150718153905_create_comments.rb",
+		"/home/zed/Odin/Rails/blogger/app/assets/stylesheets/screen.css",
+		"/home/zed/Odin/Rails/blogger/db/migrate/20150715103802_create_articles.rb",
+		"/home/zed/Odin/Ruby/Basic Ruby/Enumerable_Methods.rb",
+		"/home/zed/Odin/Ruby/Tic Tac Toe/tic_tac_toe.rb",
+		"/home/zed/Odin/Ruby/Tic Tac Toe/lib/player.rb",
+		"/home/zed/Odin/Ruby/Tic Tac Toe/lib/board.rb",
+		"/home/zed/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/zed/Odin/test/README"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"knock",
+			"Knock",
+			"!\"",
+			"world",
+			"?\"\n",
+			"Git"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/helpers/sessions_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								804,
+								804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/sessions_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": -0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/layouts/_header.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"modus",
+				"app/models/user.rb"
+			],
+			[
+				"layapp",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"user",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sessco",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"head",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"sesshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"appco",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"userc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"seshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"new",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"ses",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"migra",
+				"db/migrate/20151004120206_create_users.rb"
+			],
+			[
+				"mode",
+				"app/models/user.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"re",
+				"README.rdoc"
+			],
+			[
+				"edi",
+				"app/views/users/edit.html.erb"
+			],
+			[
+				"useco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"fix",
+				"test/fixtures/users.yml"
+			],
+			[
+				"fixt",
+				"test/fixtures/users.yml"
+			],
+			[
+				"usercot",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"userte",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"sess",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"foo",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"layo",
+				"app/views/layouts/_shim.html.erb"
+			],
+			[
+				"viewssta",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"viewsuser",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"sitelayo",
+				"test/integration/site_layout_test.rb"
+			],
+			[
+				"usc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"useredi",
+				"test/integration/users_edit_test.rb"
+			],
+			[
+				"inde",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"userinde",
+				"test/integration/users_index_test.rb"
+			],
+			[
+				"_use",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"usecont",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"_",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"miadd",
+				"db/migrate/20151002125156_add_admin_to_users.rb"
+			],
+			[
+				"_user",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"useridexte",
+				"test/integration/users_index_test.rb"
+			],
+			[
+				"_hed",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"userh",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"userhe",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"apph",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"la",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"appc",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"seshel",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"useredit",
+				"test/integration/users_edit_test.rb"
+			],
+			[
+				"useconte",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"testhe",
+				"test/test_helper.rb"
+			],
+			[
+				"usete",
+				"test/integration/users_edit_test.rb"
+			],
+			[
+				"modeuse",
+				"app/models/user.rb"
+			],
+			[
+				"heade",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userlog",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"sesco",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"moduser",
+				"app/models/user.rb"
+			],
+			[
+				"moduse",
+				"app/models/user.rb"
+			],
+			[
+				"sesshelte",
+				"test/helpers/sessions_helper_test.rb"
+			],
+			[
+				"sessc",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sesnew",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"userlogi",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"mouse",
+				"app/models/user.rb"
+			],
+			[
+				"testhel",
+				"test/test_helper.rb"
+			],
+			[
+				"sessnew",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"usertes",
+				"test/models/user_test.rb"
+			],
+			[
+				"userlogtes",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"app",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"add_remem",
+				"db/migrate/20150928162003_add_remember_digest_to_users.rb"
+			],
+			[
+				"senew",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"userlogte",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"sesh",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"usersign",
+				"test/integration/users_signup_test.rb"
+			],
+			[
+				"tesh",
+				"test/test_helper.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"uselo",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"fixuse",
+				"test/fixtures/users.yml"
+			],
+			[
+				"javaa",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"sesc",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"testuser",
+				"test/integration/users_login_test.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"erro",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"usersite",
+				"test/integration/users_signup_test.rb"
+			],
+			[
+				"useetes",
+				"test/controllers/users_controller_test.rb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"envpro",
+				"config/environments/production.rb"
+			],
+			[
+				"testus",
+				"test/integration/users_signup_test.rb"
+			],
+			[
+				"usersi",
+				"test/integration/users_signup_test.rb"
+			],
+			[
+				"layou",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"viewho",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"usco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sta",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"use",
+				"app/models/user.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"rea",
+				"README.rdoc"
+			],
+			[
+				"add",
+				"db/migrate/20150914173920_add_user_id_to_posts.rb"
+			],
+			[
+				"modpo",
+				"app/models/post.rb"
+			],
+			[
+				"mig",
+				"db/migrate/20150914164619_create_users.rb"
+			],
+			[
+				"migration",
+				"db/migrate/20150912182734_add_index_to_users_email.rb"
+			],
+			[
+				"add_pa",
+				"db/migrate/20150913165635_add_password_digest_to_users.rb"
+			],
+			[
+				"fixtu",
+				"test/fixtures/users.yml"
+			],
+			[
+				"add_",
+				"db/migrate/20150912182734_add_index_to_users_email.rb"
+			],
+			[
+				"test",
+				"test/controllers/static_pages_controller_test.rb"
+			],
+			[
+				"modeuste",
+				"test/models/user_test.rb"
+			],
+			[
+				"mouser",
+				"app/models/user.rb"
+			],
+			[
+				"sqli",
+				"db/development.sqlite3"
+			],
+			[
+				"apphel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"layote",
+				"test/integration/site_layout_test.rb"
+			],
+			[
+				"teshel",
+				"test/test_helper.rb"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"stacon",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"state",
+				"test/controllers/static_pages_controller_test.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"homeht",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"appliht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"apphe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"testh",
+				"test/test_helper.rb"
+			],
+			[
+				"abao",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"he",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"view",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"stat",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"modelmic",
+				"app/models/micropost.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Odin/Rails/blogger/app/controllers/application_controller.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
